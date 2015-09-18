@@ -7,7 +7,6 @@ section.medium {
 background-color: orange;
 color: white;
 display: inline;
-visibility: hidden;
 }
 
 section.low {
@@ -30,4 +29,5 @@ section{
   height: 200px;
   width: 300px;
   overflow: auto;
+  float: left;
 }
