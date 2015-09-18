@@ -17,3 +17,7 @@ section.done li {
 background-color: black;
 color: cyan;
 }
+
+h2 {
+  text-align: center;
+}
