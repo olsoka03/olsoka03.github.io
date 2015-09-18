@@ -3,17 +3,17 @@ background-color: red;
 color: white;
 }
 
-section.medium li {
+section.medium {
 background-color: orange;
 color: white;
 }
 
-section.low li {
+section.low {
 background-color: gray;
 color: black;
 }
 
-section.done li {
+section.done {
 background-color: black;
 color: cyan;
 }
