@@ -6,7 +6,8 @@ color: white;
 section.medium {
 background-color: orange;
 color: white;
-display: ;
+display: inline;
+visibility: hidden;
 }
 
 section.low {
@@ -28,5 +29,5 @@ section{
   border: 5px solid black;
   height: 200px;
   width: 300px;
-  overflow: inline;
+  overflow: auto;
 }
