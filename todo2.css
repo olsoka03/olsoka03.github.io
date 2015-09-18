@@ -1,19 +1,19 @@
-section.high {
+section.high li {
 background-color: red;
 color: white;
 }
 
-section.medium {
+section.medium li {
 background-color: orange;
 color: white;
 }
 
-section.low {
+section.low li {
 background-color: gray;
 color: black;
 }
 
-section.done {
+section.done li {
 background-color: black;
 color: cyan;
 }
