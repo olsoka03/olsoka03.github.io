@@ -26,4 +26,5 @@ h2 {
 section{
   border: 5px solid black;
   width: 300px;
+  overflow: auto;
 }
