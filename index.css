@@ -25,6 +25,9 @@ section#left {
   background-color: #FF6666;
   height: 1000px;
 }
+section#left h3 {
+  color: white;
+}
 section#right {
   width: 50%;
   float: right;
