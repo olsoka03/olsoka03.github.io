@@ -27,7 +27,7 @@ section#left {
 section#right {
   width: 50%;
   float: right;
-  margin: 100px;
+  margin top: 140px;
   background-color: #FF9966;
   height: 400px;
 }
@@ -37,5 +37,5 @@ footer {
   height: 20px;
   clear: both;
   color: white;
-  margin-top: 0px;
+  margin-top: 640px;
 }
