@@ -25,6 +25,7 @@ section#left {
   margin-top: 140px;
   background-color: #FF6666;
   height: 1000px;
+  
 }
 section#left h2 {
   color: white;
@@ -42,7 +43,7 @@ section#right h2 {
 footer {
   background-color: #FFCC66;
   width: 100%;
-  height: 20px;
+  height: 40px;
   clear: both;
   color: white;
   margin-top: 1240px;
@@ -50,4 +51,7 @@ footer {
 body {
   background-color: #FFFF66;
   margin: 0px;
+}
+a:hover {
+  color: #FFFF66;
 }
