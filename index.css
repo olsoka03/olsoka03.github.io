@@ -23,13 +23,13 @@ nav ul {
 section#left {
   width: 50%;
   float: left;
-  margin: 40px;
+  margin: 80px;
   background-color: purple;
 }
 section#right {
   width: 50%;
   float: left;
-  margin: 40px;
+  margin: 80px;
   background-color: gray;
 }
 footer {
