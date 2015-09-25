@@ -20,7 +20,7 @@ nav li {
 section#left {
   width: 50%;
   float: left;
-  margin: 100px;
+  margin-top: 140px;
   background-color: #FF6666;
   height: 400px;
 }
