@@ -1,6 +1,6 @@
 header {
   position: fixed;
-  top: 0px;
+  top: 60px;
   left: 0px;
   background-color: #FF0066;
   width: 100%;
@@ -8,7 +8,7 @@ header {
 }
 nav {
   position: fixed;
-  top: 40px;
+  top: 100px;
   left: 0px;
   background-color: #FF3366;
   width: 100%;
