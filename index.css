@@ -17,9 +17,6 @@ nav {
 nav li {
   display: inline;
 }
-nav ul {
-  margin-bottom: 20px;
-}
 section#left {
   width: 50%;
   float: left;
@@ -30,6 +27,7 @@ section#left {
 }
 section#right {
   width: 50%;
+  float: left;
   margin top: 140px;
   background-color: #FF9966;
   height: 400px;
