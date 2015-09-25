@@ -22,14 +22,14 @@ section#left {
   float: left;
   margin: 100px;
   background-color: #FF6666;
-  height: 1000px;
+  height: 200px;
 }
 section#right {
   width: 50%;
   float: right;
-  margin: 50px;
+  margin: 100px;
   background-color: #FF9966;
-  height: 1000px;
+  height: 200px;
 }
 footer {
   background-color: #FFCC66;
