@@ -35,6 +35,9 @@ section#right {
   background-color: #FF9966;
   height: 1000px;
 }
+section#right h3 {
+  color: white;
+}
 footer {
   background-color: #FFCC66;
   width: 100%;
