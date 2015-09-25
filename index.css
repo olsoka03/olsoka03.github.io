@@ -29,7 +29,6 @@ section#left {
 }
 section#right {
   width: 50%;
-  float: left;
   margin: 80px;
   background-color: gray;
   height: 500px;
