@@ -25,12 +25,14 @@ section#left {
   float: left;
   margin: 80px;
   background-color: purple;
+  height: 500px;
 }
 section#right {
   width: 50%;
   float: left;
   margin: 80px;
   background-color: gray;
+  height: 500px;
 }
 footer {
   background-color: yellow;
