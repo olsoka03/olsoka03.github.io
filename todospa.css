@@ -1,3 +1,12 @@
+select.high {
+  color: red;
+}
+select.med {
+  color: orange;
+}
+select.low {
+  color: gray;
+}
 header {
   position: fixed;
   top: 0px;
