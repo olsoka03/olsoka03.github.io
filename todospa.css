@@ -14,3 +14,11 @@ section {
   height: 300px;
   background-color: blue;
 }
+article {
+  position: relative;
+  top: 450px
+  left: 50px;
+  margin-right: 50px;
+  height: 100px;
+  background-color: blue;
+}
