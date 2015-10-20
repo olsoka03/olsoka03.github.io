@@ -1,4 +1,5 @@
 addTask = function() {
+  alert("hello");
   ul = document.querySelector("#list");
   li = document.createElement("li");
   check = document.createElement("input");
