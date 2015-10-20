@@ -5,9 +5,7 @@ addTask = function() {
   check = document.createElement("input");
   check.type = "checkbox";
   text = document.querySelector("#new");
-  item = document.createTextNode(text).value;
-  
-  li.className = 
+  item = document.createTextNode(text.value);
   
   li.appendChild(check);
   li.appendChild(item);
