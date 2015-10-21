@@ -1,5 +1,4 @@
 addTask = function() {
-  alert("hello");
   ul = document.querySelector("#list");
   li = document.createElement("li");
   check = document.createElement("input");
@@ -16,6 +15,7 @@ addTask = function() {
   ul.appendChild(li);
 }
 checkFunc = function() {
+  alert = "hello";
   if(this.checked) {
     this.parentNode.classList.add("done");
 } else {
