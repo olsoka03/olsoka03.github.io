@@ -9,7 +9,16 @@ addTask = function() {
   drop = document.querySelector("#priority");
   li.className = drop.value;
   
+  check.onclick = checkFunc;
+  
   li.appendChild(check);
   li.appendChild(item);
   ul.appendChild(li);
+}
+checkFunc = function() {
+  if(this.checked) {
+    this.parentNode.classList.add("done");
+} else {
+  this.parentNode.classList.remove("done");
+}
 }
