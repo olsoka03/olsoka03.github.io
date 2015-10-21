@@ -48,4 +48,5 @@ article {
   height: 75px;
   background-color: lightblue;
   text-align: center;
+  padding: auto;
 }
