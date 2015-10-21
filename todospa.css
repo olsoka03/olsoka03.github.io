@@ -35,6 +35,7 @@ section {
   height: 300px;
   background-color: pink;
   overflow: auto;
+  text-align: center;
 }
 article {
   position: relative;
