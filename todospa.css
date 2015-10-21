@@ -1,3 +1,6 @@
+list {
+  list-style-type: none;
+}
 .high {
   color: red;
 }
