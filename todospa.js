@@ -7,7 +7,6 @@ addTask = function() {
   item = document.createTextNode(text.value);
   drop = document.querySelector("#priority");
   li.className = drop.value;
-  
   check.onclick = doneTask;
   
   li.appendChild(check);
