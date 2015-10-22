@@ -21,7 +21,7 @@ doneTask = function() {
   this.parentNode.classList.remove("done");
 }
 }
-localsave = funtion("#list") {
-}
-restoreList = function ("#list", doneTask) {
-}
+//localsave = funtion("#list") {
+//}
+//restoreList = function ("#list", doneTask) {
+//}
