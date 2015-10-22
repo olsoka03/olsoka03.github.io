@@ -22,5 +22,5 @@ doneTask = function() {
 } else {
   this.parentNode.classList.remove("done");
 }
-localsave("list");
+  localsave("list");
 }
