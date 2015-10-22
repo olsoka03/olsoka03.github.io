@@ -2,6 +2,8 @@
   <head>
     <title>To Do</title>
     <link rel="stylesheet" href="todospa.css" type="text/css">
+    <script type="text/javascript" src="todospa.js"></script>
+    <script type="text/javascript" src="http://bnmnetp.github.io/CSBO/listsaver.js"></script>
   </head>
   <body>
     <header>
@@ -20,8 +22,6 @@
       </select>
       <button onclick="addTask();">New</button>
     </article>
-    <script type="text/javascript" src="todospa.js"></script>
-    <script type="text/javascript" src="http://bnmnetp.github.io/CSBO/listsaver.js"></script>
   </body>
   <script type="text/javascript">
     window.onload = function() { restorelist("list", doneTask) }
