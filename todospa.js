@@ -13,7 +13,7 @@ addTask = function() {
   li.appendChild(item);
   ul.appendChild(li);
   
-  localsave("#list");
+  localSave('list')
 }
 doneTask = function() {
   alert = "hello";
@@ -22,5 +22,5 @@ doneTask = function() {
 } else {
   this.parentNode.classList.remove("done");
 }
-  localsave("#list");
+  localSave('list')
 }
