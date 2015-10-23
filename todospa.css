@@ -17,11 +17,12 @@ ul {
   text-decoration: line-through;
 }
 header {
-  margin:auto;
+  margin: auto;
+  height: 50px;
   text-align: center;
 }
 section {
-  margin-top: 25px;
+  margin-top: 50px;
   margin-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
@@ -34,7 +35,7 @@ article {
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  height: 75px;
+  height: 50px;
   background-color: lightblue;
   text-align: center;
   padding: auto;
