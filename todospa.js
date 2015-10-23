@@ -16,7 +16,6 @@ addTask = function() {
   localSave("list")
 }
 doneTask = function() {
-  alert = "hello";
   if(this.checked) {
     this.parentNode.classList.add("done");
 } else {
